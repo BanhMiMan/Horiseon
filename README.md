@@ -5,3 +5,4 @@ A code refactoring excercise challenge for class. In this repo I attempted to co
 
 References:
 Help from Tyler (kinda)
+Notes from bootcamp helped me realize I had to change all the class elements to like the <div>s to sections to make everything neater.
